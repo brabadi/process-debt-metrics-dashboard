@@ -27,7 +27,7 @@ Los valores obtenidos se interpretan de acuerdo con la escala definida en el mod
 
 51% ≤ valor ≤ 80% nivel alto 
     
-      valor > 80% nivel crítico
+valor > 80% nivel crítico
 
 Consideraciones:
 No es obligatorio aplicar todas las métricas; el modelo es adaptable según el contexto del proyecto.
