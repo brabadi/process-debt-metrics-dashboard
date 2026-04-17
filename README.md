@@ -21,9 +21,12 @@ Visualice los resultados en los indicadores gráficos dinámicos, los cuales rep
 Interpretación de resultados:
 Los valores obtenidos se interpretan de acuerdo con la escala definida en el modelo:
 
- 0% ≤ valor ≤ 20% nivel bajo 
+ 0% ≤ valor ≤ 20% nivel bajo
+ 
 21% ≤ valor ≤ 50% nivel moderado
+
 51% ≤ valor ≤ 80% nivel alto 
+    
       valor > 80% nivel crítico
 
 Consideraciones:
